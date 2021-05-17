@@ -16,3 +16,4 @@ bin/hadoop jar HU-SD-BDSD_Assignment_2.jar com.company.Main input output -t trai
 **LET OP!:** het uitvoeren kan een geruime tijd duren (+- 3 min.). Zolang je Hadoop logs voorbij ziet komen werkt alles nog.
 
 ## Screens
+![Demo](https://raw.githubusercontent.com/frozenshadow/HU-ICT-BDSD-Assignment_2/master/demo.gif)

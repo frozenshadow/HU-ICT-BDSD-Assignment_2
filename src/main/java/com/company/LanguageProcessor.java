@@ -1,8 +1,8 @@
 package com.company;
 
-import com.company.MapReduce.SentenceMapper;
-import com.company.MapReduce.UnknownLangWordReducer;
-import com.company.MapReduce.WordMapper;
+import com.company.Mappers.SentenceMapper;
+import com.company.Mappers.WordMapper;
+import com.company.Reducers.GenericReducer;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileUtil;
 import org.apache.hadoop.fs.Path;
@@ -14,7 +14,10 @@ import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
 import java.io.*;
-import java.util.*;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.Map;
+import java.util.Optional;
 
 public class LanguageProcessor {
 
@@ -111,8 +114,8 @@ public class LanguageProcessor {
         ChainMapper.addMapper(job, WordMapper.class, Text.class, IntWritable.class, Text.class, IntWritable.class, wordMapperConf);
 
         job.setJarByClass(Main.class);
-        job.setCombinerClass(UnknownLangWordReducer.class);
-        job.setReducerClass(UnknownLangWordReducer.class);
+        job.setCombinerClass(GenericReducer.class);
+        job.setReducerClass(GenericReducer.class);
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(IntWritable.class);
 

@@ -1,6 +1,11 @@
 package com.company;
 
-import com.company.MapReduce.*;
+import com.company.Mappers.JoinMapper;
+import com.company.Mappers.LetterMapper;
+import com.company.Mappers.SentenceMapper;
+import com.company.Mappers.WordMapper;
+import com.company.Reducers.GenericReducer;
+import com.company.Reducers.JoinReducer;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileUtil;
 import org.apache.hadoop.fs.Path;
@@ -61,8 +66,8 @@ public class Trainer {
         ChainMapper.addMapper(job, WordMapper.class, Text.class, IntWritable.class, Text.class, IntWritable.class, wordMapperConf);
 
         job.setJarByClass(Main.class);
-        job.setCombinerClass(WordReducer.class);
-        job.setReducerClass(WordReducer.class);
+        job.setCombinerClass(GenericReducer.class);
+        job.setReducerClass(GenericReducer.class);
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(IntWritable.class);
 
@@ -78,8 +83,8 @@ public class Trainer {
 
         job.setJarByClass(Main.class);
         job.setMapperClass(LetterMapper.class);
-        job.setCombinerClass(LetterReducer.class);
-        job.setReducerClass(LetterReducer.class);
+        job.setCombinerClass(GenericReducer.class);
+        job.setReducerClass(GenericReducer.class);
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(IntWritable.class);
 
@@ -94,15 +99,15 @@ public class Trainer {
         Job job = Job.getInstance(conf, String.format("%s%s Compute MaxEnt", jobPrefix, language));
 
         job.setJarByClass(Main.class);
-        job.setCombinerClass(ReducerJoin.class);
-        job.setReducerClass(ReducerJoin.class);
+        job.setCombinerClass(JoinReducer.class);
+        job.setReducerClass(JoinReducer.class);
         job.setMapOutputKeyClass(Text.class);
         job.setMapOutputValueClass(Text.class);
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(Text.class);
 
-        MultipleInputs.addInputPath(job, new Path(outputDir, letterCountDirectory + "/part-r-00000"), TextInputFormat.class, Mapper1.class);
-        MultipleInputs.addInputPath(job, new Path(outputDir, bigramDirectory + "/part-r-00000"), TextInputFormat.class, Mapper1.class);
+        MultipleInputs.addInputPath(job, new Path(outputDir, letterCountDirectory + "/part-r-00000"), TextInputFormat.class, JoinMapper.class);
+        MultipleInputs.addInputPath(job, new Path(outputDir, bigramDirectory + "/part-r-00000"), TextInputFormat.class, JoinMapper.class);
         FileOutputFormat.setOutputPath(job, new Path(outputDir, letterMatrixDirectory));
 
         job.waitForCompletion(true);

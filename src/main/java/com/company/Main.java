@@ -1,6 +1,5 @@
 package com.company;
 
-import com.company.CLI.CLIOptions;
 import org.apache.commons.io.FileUtils;
 
 import java.io.File;

@@ -1,4 +1,4 @@
-package com.company.MapReduce;
+package com.company.Mappers;
 
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
@@ -7,7 +7,7 @@ import org.apache.hadoop.mapreduce.Mapper;
 import java.io.IOException;
 import java.util.StringTokenizer;
 
-public class Mapper1 extends Mapper<LongWritable, Text, Text, Text> {
+public class JoinMapper extends Mapper<LongWritable, Text, Text, Text> {
 
     Text keyEmit = new Text();
     Text valEmit = new Text();

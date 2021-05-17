@@ -1,4 +1,4 @@
-package com.company.CLI;
+package com.company;
 
 import org.apache.commons.cli.*;
 
@@ -16,7 +16,7 @@ public class CLIOptions {
             commandLine = parser.parse(options, args);
         } catch (ParseException e) {
             System.out.println(e.getMessage());
-            formatter.printHelp("utility-name", options);
+            formatter.printHelp("bin/hadoop jar [this jar-file] [input] [output] -t [directory]", options);
 
             System.exit(1);
         }

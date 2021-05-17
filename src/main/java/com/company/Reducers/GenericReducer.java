@@ -1,4 +1,4 @@
-package com.company.MapReduce;
+package com.company.Reducers;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
@@ -6,7 +6,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 
 import java.io.IOException;
 
-public class UnknownLangWordReducer extends Reducer<Text, IntWritable, Text, IntWritable> {
+public class GenericReducer extends Reducer<Text, IntWritable, Text, IntWritable> {
     private final IntWritable result = new IntWritable();
 
     public void reduce(Text key, Iterable<IntWritable> values, Context context) throws IOException, InterruptedException {

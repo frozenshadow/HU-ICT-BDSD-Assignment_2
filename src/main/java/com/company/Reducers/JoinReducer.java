@@ -1,11 +1,11 @@
-package com.company.MapReduce;
+package com.company.Reducers;
 
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
 
 import java.io.IOException;
 
-public class ReducerJoin extends Reducer<Text, Text, Text, Text> {
+public class JoinReducer extends Reducer<Text, Text, Text, Text> {
 
     Text valEmit = new Text();
     int total = 0;

@@ -9,7 +9,7 @@ public class CLIOptions {
     public CLIOptions(String[] args) {
         Options options = setupOptions();
 
-        CommandLineParser parser = new DefaultParser();
+        CommandLineParser parser = new GnuParser();
         HelpFormatter formatter = new HelpFormatter();
 
         try {

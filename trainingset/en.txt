@@ -1,0 +1,216 @@
+# Sources
+#
+# https://www.genesis-news.com/news-Genesis-North-American-tour-dates-announced-n728.html
+# https://www.sciencemag.org/news/2021/05/no-shared-language-no-problem-people-across-cultures-understand-clues-vocal-charades
+# https://www.nytimes.com/2019/05/13/science/apollo-10-moon-nasa.html?module=inline
+# https://www.flatpanelshd.com/news.php?subaction=showfull&id=1620974864
+# https://www.servethehome.com/dell-apex-pushes-further-to-recreate-the-eds-business-model/
+# https://thenextweb.com/news/javascript-reducer-simple-yet-powerful-array-method-syndication
+# https://gist.github.com/roelanto/ae0c8c9febc2ce55268f
+
+Genesis: North American tour dates announced
+The Last Domino Tour? comes to North America
+A couple of days ago, Mike Rutherford mentioned in the Rockonteurs podcast that North American Genesis tour dates are possible this year (check our news about this here). Genesis have announced the second leg of their The Last Domino? tour today. The band will indeed play shows in North America at the end of this year.
+The west coast is not part of this leg of the tour.
+UPDATE 6th May: Extra shows for Chicago, Montreal and New York City announced
+You can discuss this with other fans in our online forum here.
+
+No shared language? No problem! People across cultures understand clues from ‘vocal charades’
+One of the hardest questions for evolutionary linguists is why humans speak at all. When people don’t share a language, they quickly resort to using their hands, rather than their voices: It’s easier to mime “drink” than it is to make a noise that sounds like drinking. Those gestures, over time, can easily blossom into full-fledged sign languages. “If gesture is good enough for language,” says Aleksandra Ćwiek, a linguistics Ph.D. student at the Leibniz-Centre General Linguistics, “why the hell do we talk?”
+In a new study, Ćwiek and her colleagues help answer that question: People from very different cultures can understand nonlinguistic vocal clues better than expected by chance, they find. Speakers of 28 languages could all successfully guess meanings in a charadeslike game where other people expressed words like “water” using vocal sounds—but no language.
+The study bolsters a growing argument that vocal sounds, like gestures, can be “iconic”—mimicking some part of the idea they’re trying to convey—says Gareth Roberts, an evolutionary linguist at the University of Pennsylvania who wasn’t involved in the new work. For example, whereas a gesture for “eat” might mimic chewing food, a vocalization could mimic the noises of chewing itself—and unlike the word “eat,” both convey something about the act of eating. Smaller studies have shown similar effects, but “the true contribution of this [new] study lies in its scale,” Roberts says.
+For their “vocal charades” experiment, researchers used recordings from a previous study, in which mostly English speakers came up with vocalizations for 30 words, including actions like “cut,” nouns like “child,” and more abstract ideas like “this” and “that.” They invented their sounds without using actual words or other linguistic conventions (such as saying “num num” to mean “eat”).
+For some words, for example, “sleep,” the strategy was obvious—make a snoring sound. But for others, the best tactic wasn’t at all clear. For “fruit,” some people made a thumping noise, like a dropped apple hitting the ground. Others went for a crunching, slurping noise. And for an abstract word such as “good,” people often made a noise that changed in pitch from low to high; for “bad,” many made a pitch that went from high to low.
+Then, Ćwiek and her colleagues asked a different group of 843 people to match the recorded sounds to their correct meanings. They tested speakers of 25 languages, including some that are closely related to English—like German and Swedish—and some that aren’t, like Chinese and Armenian.
+They found that participants could guess general meanings surprisingly well. Each correct meaning was presented along with five incorrect options, so guessing at random would give participants a 17% chance of being right. But on average, people across all languages guessed correctly 65% of the time, they report this week in Scientific Reports. That’s enough to show participants often understood the clues, researchers say.
+Some words were easier than others: Participants nearly always correctly guessed the sound for “sleep.” But guesses for the more abstract “that” and “gather” scraped in only just above chance. English speakers were correct 74% of the time, suggesting a shared culture helps, says senior author Marcus Perlman, a linguist at the University of Birmingham. But the lowest score, for Thai speakers, was 52%—still far above chance.
+To cast the cultural net even wider, the researchers also tested participants in communities that seldom use written language. This included speakers of three additional languages in Vanuatu, French Guiana, and Brazil. Rather than asking people to choose the written word that matched the clue they heard, they were asked to choose pictures, limiting the test to concepts that could be shown in a photograph.
+Again, people were surprisingly good at the task. Participants were correct at least 34% of the time (compared with 8% if they’d been right by chance), with Daakie speakers from Vanuatu getting nearly half the answers right. “It’s cool to think that we … can communicate meaning just with the sound of our voice,” Perlman says. “People don’t just make meaningless sounds.”
+It’s a neat study, says Limor Raviv, an evolutionary linguist at the Dutch-speaking Free University of Brussels who wasn’t involved with the work. Although it’s simple, it challenges an old and central idea in linguistics: that there’s no relationship between the sounds that make up a word and the meaning of that word. For instance, there’s nothing about the word “cat” that is obviously connected to the animal. But this study adds to a growing pile of evidence that iconicity in speech isn’t limited to just the rare case of onomatopoeia, like “meow.”
+If vocalization, like gesture, can convey meaning without being part of a language, it could have played a role in the emergence of early linguistic systems, Perlman says. The finding makes it possible for linguists to start to explore how vocalization and gesture might have worked in tandem in the evolution of language, Raviv says, rather than arguing about which came first: “It makes the mystery of the shift from gesture to spoken language obsolete.”
+
+Why Apollo 10 Stopped Just 47,000 Feet From the Moon
+In a year when we’ll celebrate Apollo 11’s 50th anniversary, it’s worth remembering the pathfinders who completed the same mission with one critical order: don’t actually land on the moon.
+Soon we will recognize the 50th anniversary of the first humans to walk on the moon.
+We remember and celebrate the heroism of the Apollo 11 crew: the humility of Neil Armstrong making those first bootprints; the cool bravado of Buzz Aldrin during the critical moments of the Eagle lander’s final descent; and, the lonely vigil of Michael Collins in orbit above his mates, waiting to bring them back home.
+Sign up for Science Times: Get stories that capture the wonders of nature, the cosmos and the human body.
+But we also need to celebrate the many pathfinders who made this historic mission possible. Among the most critical were the crew of Apollo 10, who were asked to perform a full dress-rehearsal of the Apollo 11 mission just two months beforehand. Commander Thomas P. Stafford; John W. Young, the command module pilot; and Eugene A. Cernan, lunar module pilot, did almost everything that Aldrin, Armstrong and Collins did, but they stopped just before landing on the moon.
+Imagine if Ferdinand and Isabella had sent a ship to the New World in 1491 and asked its captain and crew to find new lands to the west without getting out of the ship to set foot on them, because the next captain and crew were scheduled to do that in 1492.
+Or picture President Thomas Jefferson sending a party to scout passage to the Pacific Ocean in 1803, then saying, don’t touch a thing, especially not the ocean — because Lewis and Clark are scheduled to do that the following year.
+It seems unfathomable, to go all that way, to take all of those risks and then pull back, not grabbing the brass ring and reaping the rewards. In a sense, though, those were the instructions, and that was the burden, borne by the relatively unheralded crew of Apollo 10 fifty years ago this month.
+Spurred by President John F. Kennedy’s 1961 speech challenging the nation to “commit itself to achieving the goal, before this decade is out, of landing a man on the moon and returning him safely to the Earth,” NASA went on an 8-year lunar sprint. This bold endeavor would employ close to a half million engineers, technicians, scientists and others both in government and industry. It also cost the lives of three heroic astronauts — Gus Grissom, Ed White, and Roger Chaffee — who perished in the 1967 Apollo 1 fire.
+Successive Apollo flights had to become both safer and more daring at the same time to meet Kennedy’s deadline. Delays in the completion of the lunar lander, also known as the Lunar Excursion Module, meant that Apollo 8 would be the first crewed lunar mission to fly the command module only, from which 1968’s famed “Earthrise” photo was taken. It fell to the crew of Apollo 9 in March 1969, to fly the first test mission of the lander into space, spending 10 days in Earth orbit.
+The stage was set, then for a full dress rehearsal by the next crew to the launchpad. Apollo 10’s officers had all earned astronaut wings during Project Gemini, NASA’s precursor to Apollo. Their mission aboard was simple: Practice and work out the kinks and set the stage for a successful landing on the moon (and safe return to Earth).
+But there was one critical order: don’t actually land on the moon.
+It would be the first time the moon lander was flown in the environment for which it was built. All of the risks that they would take to prove out the equipment and procedures — launching; Earth-orbital docking; the three-day Earth to Moon cruise; lunar orbit undocking; descent of the lander nicknamed Snoopy almost to the surface; reascending and re-docking; three more days back to Earth; then a Pacific Ocean splashdown — were the same risks the Apollo 11 crew would have to take, with one distinction. A moon landing was not to be.
+They executed the rehearsal flawlessly. While Young circled above them in the command and service module nicknamed Charlie Brown, Stafford and Cernan undocked for their descent toward the landing site in the smooth, dark volcanic plains of the Sea of Tranquillity.
+“You’ll never know how big this thing is when there ain’t nobody in here but one guy,” Young told his departing friends from his lonely outpost. As they began to fall toward the surface, Cernan quipped back, “You’ll never know how small it looks when you’re as far away as we are.”
+They would eventually guide the lander to within only about 47,000 feet above the surface — close enough to test the landing radar and around the same maximum altitude of commercial aircraft above Earth’s surface. While relaying their reactions and perspective back to Young aboard Charlie Brown, Cernan called out, “Oh Charlie! We just saw Earthrise and it’s got to be magnificent!”
+The view of the stark lunar landscape below them from that altitude, scarred by billions of years of impact cratering, was just as stunning to the crew. Transcripts of their conversations reveal that they didn’t have much free time to admire it though, given the intense concentration (and occasional computer glitch repair) needed to fly Snoopy.
+Still, at one point Stafford remarked, “It looks like we’re getting so close all you have to do is put your tail hook down and we’re there.” Cernan was just as excited, exclaiming, “We are close, babe! This is, like, it!”
+Snapping photos out the window and noting the many boulders that they could clearly see, Stafford proclaimed, “Tell Jack Schmitt,” referring to their geologist-astronaut colleague and future Apollo 17 moon walker, “that there’s enough boulders down here to fill up Galveston Bay too!”
+What ran through their minds when the command finally came from Houston to fire the ascent engine and head back up? It must have been so tempting to go for a landing. Cernan was wistful: “The spacecraft is looking good and there are no problems, Charlie, except it would be nice to be around here more often …”
+But Snoopy didn’t have enough fuel to land on the moon and then blast off again. According to Craig Nelson, author of the book “Rocket Men,” Cernan speculated that the lander’s ascent module had been short-fueled on purpose: “A lot of people thought about the kind of people we were: ‘Don’t give those guys an opportunity to land, ‘cause they might!’”
+Two months later as the entire world looked on, human footsteps were at last emblazoned on the dusty surface of the moon by Neil and Buzz.
+The willingness of the Apollo 10 crew to serve as something like stand-ins instead of the stars of the show would in time be generously rewarded by NASA.
+Young descended those final few miles to the moon’s surface as commander of Apollo 16, and later commanded the first flight of the space shuttle. Cernan, too, made it to the surface as the commander of Apollo 17 in 1972, and is still the last person to have walked on the moon.
+Although Stafford never again returned to the moon, he was the American commander of the Apollo-Soyuz Test Project in 1975, docking with Soviet counterparts in Earth orbit in a joint effort to redirect the space race toward an emerging détente between the world’s superpowers.
+In the annals of history, the mission of Apollo 10 has been overshadowed by later journeys to the lunar surface. But the astronauts of Apollo 10 were trailblazers, and their story adds richness and humanity to the history of the race to the moon. Their achievements, and the risks that they took to help America to win that sprint, deserve to be remembered and celebrated.
+
+LG Display is reportedly increasing OLED TV panel production
+LG Display, the supplier of all OLED panels to all TV brands, is expanding production by 50% at its China factory, according to a report by Korean newspaper The Elec.
+From July
+LG Display's monthly output is currently 80,000 substrates in Paju, South Korea, and 60,000 substrates in Guangzhou, China. Each substrate can be cut into smaller OLED TV panels. The company supplies LG Electronics, Sony, Panasonic, Philips, Vizio, and many others.
+LG Display will soon increase production capacity by 50%, from 60,000 to 90,000 substrates (8.5 generation), at the China factory, according to Korean media.
+- "The factory at Guangzhou currently has two lines, each with 30,000 substrates per month capacity. LG will be adding 15,000 substrates per month in capacity to each line for a total of 90,000 substrates per month. The factory will run at the upgraded capacity starting in July," the report said.
+LG Display has not commented on the timeline but has previously said that it could increase production "from the current capacity of 60,000 sheets depending on market demand". It would seem that market demand for OLED TVs is favorable.
+The China factory, which uses a MMG (multi-model glass) production, has enabled LG Display to start production of 48-inch and 83-inch OLED panels. It has also enabled the company to bring down production costs on 65-inch and 77-inch panels. In January 2021, LG Display announced that the first 42-inch OLED TV panels are coming later in 2021 and it is possible that the move is tied to the new expansion plans.
+LG Display is aiming to ship 7-8 million OLED TV panels in 2021, up from 4.5 million last year. The company is planning to review further expansion plans later this year.
+
+Dell Apex Pushes Further to Recreate the EDS Business Model
+At Dell Technologies World 2021, the company introduced the next evolution in Project Apex. For those who have been in the industry long enough, this will seem very familiar as we noted in our Dell Technologies Cloud Console and Project Apex piece previously. In reimagining the future, Dell is taking a page from the past as it is asymptotically approaching the service scope of EDS in its heyday.
+For those readers who are not old enough to remember, EDS thrived in an era where large organizations such as major automobile manufacturers, airlines, government agencies, and similar size companies would contract EDS to outsource IT. Since companies outsourced large portions of their IT infrastructure to EDS, and the switching costs were high, the contracts were often signed for 7-10 years in length.
+Much of my 2008 was spent working on the HP-EDS merger as I was one of the first 10 outside consultants working on the massive due diligence efforts. My specific role was to lead the contract due diligence effort where we looked at a large number of EDS contracts to see where they were in their lifecycle. After the deal closed, I spent more time at the EDS headquarters building in Plano, TX (which was awesome) working through some of the valuation models used for estimating and accounting purposes.
+Even more than a decade removed I still do not want to go into specifics on the contracts.  Also given the scale of these contracts, many that were valued well over $100M each in 2000’s dollars, they were highly negotiated and customized for customers but there were a few key principles. What I can say is that for the data center segment, the model was presented to customers simply. Customers basically paid for units of compute time, storage, network usage, and time. There were sometimes special additions and provisions for certain machines/ characteristics. EDS usually managed the equipment installations/ professional services and upgrade cycles.
+While we can focus on the data center side here, and that is perhaps the initial focus of Dell Apex, EDS also extended this to client computing devices. A major part of HP’s acquisition thesis was that it could turn customers to HP gear from servers to notebooks/ desktops and printers over time within the existing EDS contracts. EDS also operated equipment in data centers and when one would fail, it would sometimes bring down major societal functions such as airline booking systems.
+The challenge with that business model was that as x86 servers gained market share, and costs went down, thanks partly to Dell’s model, customers started to push back. Contract durations shrunk. One of the key challenges I heard from EDS customers was that allowing a vendor to manage upgrade cycles meant that EDS had little incentive to get the newest technology since it made more margin the more it could extend equipment lifecycles. That extended, in some cases, down to the in-wall network wiring at customer sites. Another key concern was that while outsourcing was easy, the lock-in this created made switching costs high and EDS used that to further push margins on deals.
+That is important context when we discuss what Dell Apex is aiming to do. The world has changed. Using “cloud” is now mandatory. Still, the business model is tried, true, and exactly what Dell is going to do.
+Dell Apex, in its current form, is designed as mostly a data center, or perhaps a data center to edge platform. It is not yet focused on client devices, but it does not take imagination to see that as the future, especially given the Dell + VMware client as a service offerings continue to expand.
+With the purchase of EMC, Dell became a major player in storage. Storage also has a unique place in IT infrastructure since data transfer costs can be high and latency is important. As a result, storage has its own “gravity” which necessitates compute and networking be built alongside. Dell Apex has base and on-demand capacity and usage models that really leverage the company’s products and software offerings alongside Dell Financial Services’ expertise to make this possible.
+Of course, many customers are not just trying to replace storage with an on-demand or consumption pricing model. Instead, they are trying to replace compute and networking infrastructure as well. That is where the Apex Private Cloud offering comes in. For organizations that want on-prem or colocated private infrastructure, this is the offering.
+One of the big thrusts in modern enterprise IT is the move to a hybrid cloud approach. Most organizations use at least some public cloud, but on-prem can still save a lot of money and also help with some compliance tasks. As a result, Dell is embracing that approach. We also saw that with VMware Tanzu and Cloud Foundation 4.0 for Enterprise Infrastructure. This hybrid cloud approach has been important to Dell for some time.
+Dell further has consumption models with Flex On Demand and Data Center Utility that we covered a bit more in Dell Technologies Cloud Console and Project Apex some time ago.
+The main thrust is that Dell wants to have a model where customers can consume its products and services focused on outcomes (usage of storage capacity, compute units, memory, and so forth) rather than focusing on the underlying hardware. Project Apex eventually means that Dell can use whatever hardware is the least expensive to service a customer. That may be a white box server from another vendor and indeed during Michael Dell’s keynote, one of its customer success stories was already showing non-Dell hardware.
+Like the EDS model, once a customer is comfortable with Dell managing infrastructure, Dell can install servers from other vendors. Perhaps instead of PowerEdge, Dell can increase margin with Open19 or OCP servers sourced from third parties more like a hyper-scaler.
+Still, having professional services and a consumption model is much easier when one also controls the facilities. Here, Dell and Equinix have a partnership to allow one to provision and deploy Apex at one of Equinix’s data centers.
+The advantage of this arrangement is that it simplifies the deployment of services. Also, if a customer does not pay its bill/ discontinues using Apex, reclaiming technology is easier which helps with financial models.
+One of the intriguing aspects of this model is also how services can be deployed. Dell can offer compute and storage while Equinix provides interconnect, bandwidth, power, cooling, and other physical infrastructure/ security. Those can be made available to customers from Dell/ Equinix’s pool rather than what is in a specific cage. With Equinix’s Packet acquisition this is clearly a model that Equinix is pursuing. It is also a model that has high utility value and ease of operation while also providing a high switching cost.
+As a quick disclosure, I led a session at Equinix’s KubeCon EU GIFEE day event yesterday and my father is on the board of directors at Digital Realty Trust. Still, this is a great partnership.
+Final Words
+Dell needs to adapt to customers who are increasingly expected to purchase on a consumption basis. Given the fact Dell is using a well-established Texas business model that has a high switching cost, this makes a lot of sense. In the future, it would be almost shocking if we did not see client desktops/ notebooks as a service added to the Apex umbrella and that becoming a major growth area for Apex. That simply makes too much sense and many companies used this during the EDS era.
+I doubt that Dell calls this the EDS model, but as one of the folks that had the opportunity to review a huge number of legacy EDS contracts over a decade ago, Apex feels exactly like what I would envision for a modern EDS offering, minus the client side of the equation. Overall, this is a great effort by Dell and one we hope to see more of in the future.
+
+The ins and outs of JavaScript reducer — a simple, yet powerful array method
+JavaScript’s reduce is one of the most useful array methods that should be in a developer’s arsenal. Introduced in ES5, it’s somewhat similar to for…each and map methods that are used with arrays, but improves on their performance and simplicity in specific situations.
+The reduce method executes a callback function that we provide on each element stored in an array and outputs the final value the operation generates. It’s a cleaner way of iterating over and processing the data stored in an array.
+Currently, it’s supported by all of the major browser versions, and is available in Node.js from version 10.0 upwards.
+Today, we are going to explore this reduce method; more specifically, we’ll go through how and when to use it in different scenarios.
+Let’s get started then!
+Javascript reduce method parameters
+The reduce method accepts two arguments: a reducer function for the array that is used as a callback, and an optional initialValue argument. The reducer function takes four arguments: accumulator, currentValue, currentIndex, and array.
+An example of Javascript array reduce method in action:
+The This reduce method does the same job as the following for…each loop, but with fewer lines of code.
+How does the reduce method achieve it using these parameters?
+The value returned by the reducer function is assigned to the accumulator variable. In each iteration through the array items, the accumulator’s value is updated to the returned result. At the end of the iteration, the final value of the accumulator is returned as the output of the reduce function.
+If an initialValue argument is passed, the first time the reducer function is executed, the accumulator will be equal to initialValue and the currentValue will be equal to the first element stored in the array. If an initialValue is not passed, the accumulator will be equal to the first value of the array and currentValue will be equal to the second.
+Let’s see how the values of each of these parameters change every time the callback function is called in the following example. Here, we are not passing an initialValue argument.
+The final output of this function is 10.
+Next, let’s see how it works when an initialValue is passed.
+This function outputs the value 22.
+When to use JavaScript’s reducer
+The reduce method provides a unique way to iterate through items in an array and process them. So what are the situations in which we can benefit from this uniqueness?
+Calculate the sum of values in an array
+This is similar to what we did in previous examples. The only difference is we have to pass 0 for the initialValue parameter.
+Flatten an array
+If we have an array of arrays, we can use the reduce method to flatten it and create a single array without nested arrays.
+We pass an empty array as the initial value so the items in the first array are concatenated with it to create a flattened array.
+If the first array has more than one level of nested arrays, we can recursively call the reduce function to flatten and then concatenate them with the final array.
+If the current value accepted by the callback is an array, as verified using the isArray method, we recursively call the flattenArray function on it. If the current value is not an array, we simply concatenate the value with the final flattened array.
+Grouping an array of objects by a property
+Assume that we have an array of objects that are basically the names of countries — and we want to group each country in the array according to their continents. We can use the reduce method for this task. Check out the code snippet below:
+Inside the callback function, we create a new key for each continent that is not in the groupedCountries map and assign an empty array as its value. Then we push each country object to the array stored by their respective continents.
+Using reduce() in place of filter().map()
+In JavaScript, we use the filter method to filter items stored in an array using a callback. We use the map method to create a new array using the old array using the logic passed inside a callback. Sometimes we have to use these two methods, one after the other to create a new array with the results we filter using some conditions.
+Instead of using two array methods, you can use the JavaScript array reduce method to complete the same task. It will reduce the completion time because now you only iterate through the array only once, not twice.
+For example, let’s take the following scenario where we want to create an array of square roots of numbers greater than 30.
+The same scenario implemented using reduce looks like this.
+Inside the callback, we simply check if the number is greater than 30 and add its square root to the accumulator array. You have to pass an empty array as the initial value to get this result.
+Build your own reducer
+In this section, we are going to implement the reducer function on our own to see how things work under the hood. This will give you a better idea of when to use the JavaScript reducer for optimal performance in your program.
+First, we check if the reduce method was called on a null or undefined object. Then we check if the passed callback is a function.
+After the initial type checks, we assign the passed initialValueto the accumulator. Then we loop through the array and call the callback for each item in the array. At the end of execution, we have to return the accumulator value.
+We are using this implementation only to help you understand how the reduce method actually works. For example, you can see that it uses a for loop to iterate through the array under the hood.
+However, note that you shouldn’t use this implementation in your production code. In fact, prototyping methods to JavaScript standard types is a bad coding practice you should never indulge in.
+I hope this knowledge will help you to identify problems that can be resolved with the reducer in the future. Some of these use cases overlap with the forEach , map, and filter array methods. So you should know to pick the situations that can be solved optimally using the reduce method.
+
+Alice was beginning to get very tired of sitting by her sister on the
+bank, and of having nothing to do. Once or twice she had peeped into the
+book her sister was reading, but it had no pictures or conversations in
+it, "and what is the use of a book," thought Alice, "without pictures or
+conversations?"
+So she was considering in her own mind (as well as she could, for the
+day made her feel very sleepy and stupid), whether the pleasure of
+making a daisy-chain would be worth the trouble of getting up and
+picking the daisies, when suddenly a White Rabbit with pink eyes ran
+close by her.
+There was nothing so very remarkable in that, nor did Alice think it so
+very much out of the way to hear the Rabbit say to itself, "Oh dear! Oh
+dear! I shall be too late!" But when the Rabbit actually took a watch
+out of its waistcoat-pocket and looked at it and then hurried on, Alice
+started to her feet, for it flashed across her mind that she had never
+before seen a rabbit with either a waistcoat-pocket, or a watch to take
+out of it, and, burning with curiosity, she ran across the field after
+it and was just in time to see it pop down a large rabbit-hole, under
+the hedge. In another moment, down went Alice after it!
+[Illustration]
+The rabbit-hole went straight on like a tunnel for some way and then
+dipped suddenly down, so suddenly that Alice had not a moment to think
+about stopping herself before she found herself falling down what seemed
+to be a very deep well.
+Either the well was very deep, or she fell very slowly, for she had
+plenty of time, as she went down, to look about her. First, she tried to
+make out what she was coming to, but it was too dark to see anything;
+then she looked at the sides of the well and noticed that they were
+filled with cupboards and book-shelves; here and there she saw maps and
+pictures hung upon pegs. She took down a jar from one of the shelves as
+she passed. It was labeled "ORANGE MARMALADE," but, to her great
+disappointment, it was empty; she did not like to drop the jar, so
+managed to put it into one of the cupboards as she fell past it.
+Down, down, down! Would the fall never come to an end? There was nothing
+else to do, so Alice soon began talking to herself. "Dinah'll miss me
+very much to-night, I should think!" (Dinah was the cat.) "I hope
+they'll remember her saucer of milk at tea-time. Dinah, my dear, I wish
+you were down here with me!" Alice felt that she was dozing off, when
+suddenly, thump! thump! down she came upon a heap of sticks and dry
+leaves, and the fall was over.
+Alice was not a bit hurt, and she jumped up in a moment. She looked up,
+but it was all dark overhead; before her was another long passage and
+the White Rabbit was still in sight, hurrying down it. There was not a
+moment to be lost. Away went Alice like the wind and was just in time to
+hear it say, as it turned a corner, "Oh, my ears and whiskers, how late
+it's getting!" She was close behind it when she turned the corner, but
+the Rabbit was no longer to be seen.
+She found herself in a long, low hall, which was lit up by a row of
+lamps hanging from the roof. There were doors all 'round the hall, but
+they were all locked; and when Alice had been all the way down one side
+and up the other, trying every door, she walked sadly down the middle,
+wondering how she was ever to get out again.
+Suddenly she came upon a little table, all made of solid glass. There
+was nothing on it but a tiny golden key, and Alice's first idea was that
+this might belong to one of the doors of the hall; but, alas! either the
+locks were too large, or the key was too small, but, at any rate, it
+would not open any of them. However, on the second time 'round, she came
+upon a low curtain she had not noticed before, and behind it was a
+little door about fifteen inches high. She tried the little golden key
+in the lock, and to her great delight, it fitted!
+[Illustration]
+Alice opened the door and found that it led into a small passage, not
+much larger than a rat-hole; she knelt down and looked along the passage
+into the loveliest garden you ever saw. How she longed to get out of
+that dark hall and wander about among those beds of bright flowers and
+those cool fountains, but she could not even get her head through the
+doorway. "Oh," said Alice, "how I wish I could shut up like a telescope!
+I think I could, if I only knew how to begin."
+Alice went back to the table, half hoping she might find another key on
+it, or at any rate, a book of rules for shutting people up like
+telescopes. This time she found a little bottle on it ("which certainly
+was not here before," said Alice), and tied 'round the neck of the
+bottle was a paper label, with the words "DRINK ME" beautifully printed
+on it in large letters.
+"No, I'll look first," she said, "and see whether it's marked '_poison_'
+or not," for she had never forgotten that, if you drink from a bottle
+marked "poison," it is almost certain to disagree with you, sooner or
+later. However, this bottle was _not_ marked "poison," so Alice ventured
+to taste it, and, finding it very nice (it had a sort of mixed flavor of
+cherry-tart, custard, pineapple, roast turkey, toffy and hot buttered
+toast), she very soon finished it off.

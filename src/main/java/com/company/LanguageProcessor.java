@@ -14,12 +14,7 @@ import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
 import java.io.*;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.Map;
-import java.util.Optional;
+import java.util.*;
 
 public class LanguageProcessor {
 
@@ -68,45 +63,37 @@ public class LanguageProcessor {
         HashMap<String, Integer> languageLineCount = new HashMap<>();
         BufferedReader br = new BufferedReader(new FileReader(file));
 
-        Files.lines(Paths.get(file.getAbsolutePath()))
-                .parallel()
-                .forEach(line -> {
-                    if (line.trim().startsWith("#") || line.trim().length() <= 0) return;
+        String line;
+        while ((line = br.readLine()) != null) {
+            if (line.trim().startsWith("#") || line.trim().length() <= 0) continue;
 
-                    // Create a GUID for the temporary file
-                    String fileUUID = String.valueOf(java.util.UUID.randomUUID());
+            // Create a GUID for the temporary file
+            String fileUUID = String.valueOf(java.util.UUID.randomUUID());
 
-                    String resultLanguage = null;
+            // Create the temporary file and write the current line to it
+            File tempFile = File.createTempFile(fileUUID, ".txt");
+            FileWriter writer = new FileWriter(tempFile);
+            writer.write(line);
+            writer.close();
 
-                    try {
-                        // Create the temporary file and write the current line to it
-                        File tempFile = File.createTempFile(fileUUID, ".txt");
-                        FileWriter writer = new FileWriter(tempFile);
-                        writer.write(line);
-                        writer.close();
+            // Use the temporary file as input for Hadoop.
+            // If there is another less i/o intensive way, please let me know :)
+            makeBigram(tempFile.getAbsolutePath(), fileUUID);
 
-                        // Use the temporary file as input for Hadoop.
-                        // If there is another less i/o intensive way, please let me know :)
-                        makeBigram(tempFile.getAbsolutePath(), fileUUID);
+            // Remove the temporary upon completion
+            tempFile.delete();
 
-                        // Remove the temporary upon completion
-                        tempFile.delete();
+            String resultLanguage = guessLanguage(fileUUID);
 
-                        resultLanguage = guessLanguage(fileUUID);
-                    } catch (Exception e) {
-                        e.printStackTrace();
-                        System.exit(1);
-                    }
+            if (languageLineCount.get(resultLanguage) == null) {
+                languageLineCount.put(resultLanguage, 1);
+            } else {
+                Integer currLineCount = languageLineCount.get(resultLanguage);
+                languageLineCount.put(resultLanguage, currLineCount + 1);
+            }
 
-                    if (languageLineCount.get(resultLanguage) == null) {
-                        languageLineCount.put(resultLanguage, 1);
-                    } else {
-                        Integer currLineCount = languageLineCount.get(resultLanguage);
-                        languageLineCount.put(resultLanguage, currLineCount + 1);
-                    }
-
-                    FileUtil.fullyDelete(new File(outputDir, fileUUID + "_inputMatrix"));
-                });
+            FileUtil.fullyDelete(new File(outputDir, fileUUID + "_inputMatrix"));
+        }
 
         for (Map.Entry<String, Integer> e : languageLineCount.entrySet()) {
             System.out.printf("%s: %d lines\n", e.getKey(), e.getValue());
